@@ -1613,6 +1613,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libfastcvopt \
+    libril \
     libsdm-disp-vndapis \
     libthermalclient \
     libsdm-disp-apis.qti \
